@@ -1,2 +1,2 @@
-﻿1.3.6.45
+﻿1.3.6.46
 https://github.com/hami88/SLClientUpdater/raw/refs/heads/main/releases/update.zip
