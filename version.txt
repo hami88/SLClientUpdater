@@ -1,2 +1,2 @@
-﻿1.3.6.41
-https://raw.githubusercontent.com/hami88/SLClientReleases/main/update.zip
+﻿1.3.6.42
+https://raw.githubusercontent.com/hami88/SLClientReleases/main/releases/update.zip
