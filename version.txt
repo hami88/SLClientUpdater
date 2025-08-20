@@ -1,2 +1,2 @@
-﻿1.4.1.20
+﻿1.4.1.21
 https://github.com/hami88/SLClientUpdater/raw/refs/heads/main/releases/update.zip
